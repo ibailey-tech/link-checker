@@ -34,7 +34,7 @@ To run the script, follow these steps:
 3. Run the script by typing:
 
 \```bash
-python link_auditor.py
+python app.py
 \```
 
 4. When prompted, enter the URL you want to audit. Ensure the URL is entered correctly to avoid errors during the audit process.
